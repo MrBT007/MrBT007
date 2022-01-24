@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MrBT007
-- 👀 I’m interested in Building Apps
 - 🌱 I’m currently learning Kotlin for Android Devlopment
 - 📫 How to reach me bhuttushat2019@gmail.com
 
