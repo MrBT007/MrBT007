@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhut Tushar</h1>
-<h3 align="center">A Competitive Programmer and Android Developer</h3>
+<h3 align="left">A Competitive Programmer and Android Developer</h3>
+<img alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbt007&label=Profile%20views&color=0e75b6&style=flat" alt="mrbt007" /> </p>
 
@@ -10,18 +11,6 @@
 - 🔭 I’m currently working on **CP\DSA**
 - 🌱 I’m currently learning **Android app development in Kotlin**
 - 📫 Reach me at **bhuttushar2019@gmail.com**
-
-<br/>
-
-<img align="right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966">
-
-## 👨‍💻 This week coding Language boosting hours
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-<br/>
 
 ## 🚀 Languages and Tools:
 
