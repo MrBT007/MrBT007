@@ -36,21 +36,6 @@
 <p align="center"><a href="https://github.com/MrBT007/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MrBT007&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Bhut Tushar's Github Stats" /></a></p>
 
 <br/>
-<img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
-
-<p align="center">
-    <a href="https://github.com/MrBT007/github-readme-stats"><img alt="Bhut Tushar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBT007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-
-<br/>
 
 <a href="https://github.com/MrBT007/github-readme-activity-graph"><img alt="Bhut Tushar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MrBT007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
