@@ -3,6 +3,7 @@
 <img alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbt007&label=Profile%20views&color=0e75b6&style=flat" alt="mrbt007" /> </p>
+<a href="https://wakatime.com/@2f308da2-4111-4683-8cf1-cebe9a6a9dfc"><img src="https://wakatime.com/badge/user/2f308da2-4111-4683-8cf1-cebe9a6a9dfc.svg" alt="Total time coded since Oct 1 2022" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbt007" alt="mrbt007" /></a> </p>
 
