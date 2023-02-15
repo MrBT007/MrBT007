@@ -31,14 +31,14 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
-<p align="center"><a href="https://github.com/MrBT007/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MrBT007&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Bhut Tushar's Github Stats" /></a></p>
+<p align="center"><a href="https://github.com/MrBT007/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MrBT007&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Bhut Tushar's Github Stats" /></a></p> -->
 
-<br/>
+<!-- <br/>
 
-<a href="https://github.com/MrBT007/github-readme-activity-graph"><img alt="Bhut Tushar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MrBT007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MrBT007/github-readme-activity-graph"><img alt="Bhut Tushar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MrBT007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 
@@ -55,6 +55,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<!-- 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
