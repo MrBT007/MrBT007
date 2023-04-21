@@ -31,6 +31,11 @@
     </a>
 </p>
 
+# leetcode
+LeetCode Solutions: A Record of My Problem Solving
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/lc_Tushar?theme=light&font=Averia%20Gruesa%20Libre&ext=activity)
+
 <!-- ## 📊 My Github Stats
 
   <br/>
