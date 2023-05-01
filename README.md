@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbt007&label=Profile%20views&color=0e75b6&style=flat" alt="mrbt007" /> </p>
 <a href="https://wakatime.com/@2f308da2-4111-4683-8cf1-cebe9a6a9dfc"><img src="https://wakatime.com/badge/user/2f308da2-4111-4683-8cf1-cebe9a6a9dfc.svg" alt="Total time coded since Oct 1 2022" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbt007" alt="mrbt007" /></a> </p>
-
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **CP\DSA**
@@ -31,7 +29,7 @@
     </a>
 </p>
 
-# leetcode
+# Leetcode
 LeetCode Solutions: A Record of My Problem Solving
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lc_Tushar?theme=light&font=Averia%20Gruesa%20Libre&ext=activity)
