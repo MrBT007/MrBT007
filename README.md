@@ -7,8 +7,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **CP\DSA**
-- 🌱 I’m currently learning **Android app development in Kotlin**
 - 📫 Reach me at **bhuttushar2019@gmail.com**
 
 ## 🚀 Languages and Tools:
